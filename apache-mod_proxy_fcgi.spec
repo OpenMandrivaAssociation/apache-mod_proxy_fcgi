@@ -23,7 +23,6 @@ Requires:	apache >= 2.2.0
 Requires:	apache-mod_proxy >= 2.2.0
 BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	file
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Mod_proxy_fcgi is a DSO module for the apache web server.

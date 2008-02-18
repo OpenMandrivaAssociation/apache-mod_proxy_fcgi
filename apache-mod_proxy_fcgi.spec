@@ -3,7 +3,7 @@
 %define mod_conf 32_%{mod_name}.conf
 %define mod_so %{mod_name}.so
 
-Summary:	Mod_proxy_fcgi is a DSO module for the apache web server
+Summary:	DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	0
 Release:	%mkrel 3

@@ -1,0 +1,5 @@
+sources:
+  "32_mod_proxy_fcgi.conf:"	54226e23f2e3578e3591d833d8e51b89fca11225
+  "fcgi_protocol.h:"	440a2bd2fe008b26dec2ed418c250f232d58d1d9
+  "fcgistarter.c:"	2a7e84240e400e61e6b3bc8110f9f4a99c3a8092
+  "mod_proxy_fcgi.c:"	bf64effbfb0233da928b95eb87405cd024b8d519

@@ -9,7 +9,7 @@ Version:	0
 Release:	%mkrel 14
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.apache.org/
+URL:		https://www.apache.org/
 Source0:	mod_proxy_fcgi.c
 Source1:	fcgi_protocol.h
 Source2:	fcgistarter.c
